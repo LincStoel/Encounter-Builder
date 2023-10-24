@@ -1,2 +1,4 @@
 # Encounter-Builder
- Excel DM's Screen for D&D 5e
+This spreadsheet is the public GNU GPLv3 release of [this spreadsheet](https://www.dmsguild.com/product/221086/Dungeon-Master-Excel-Toolkit) available on the Dungeon Master's Guild. You won't be able to do much actual DMing with this version since i had to remove so much of the Wizards of the coast owned content that isn't permissable in this license. But, before i stopped maintaining this sheet i wanted to be certain that i made my code available in an open source way in case anyone wanted to continue development.
+
+I've poured so much time and energy into this spreadsheet over the years so hopefully some folks can still get some use out of it.
